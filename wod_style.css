@@ -3,8 +3,8 @@ body {
 }
 
 header {
-	background: linear-gradient(#111111 13%, #FEFEFE 50%, #111111);
-	padding: 50px 0;
+	background: linear-gradient(#111111 13%, #6b6969 50%, #111111);
+	padding: 50px 70px 20px 0px;
 }
 
 header h1, header p {
@@ -62,7 +62,7 @@ main h3{
 .eclipse {
 	width: 940px;
 	margin: 0 auto;
-	padding: 50px 20%;
+	padding: 50px 25%;
 }
 
 .eclipse li {
@@ -123,5 +123,17 @@ main h3{
     vertical-align: top;
     margin: 0 1.1em;
     box-sizing: border-box;
+}
+
+footer {
+	text-align: center;
+    background: url(img/bg.jpg);
+    padding: 40px 0;
+}
+
+.copyright {
+	font-size: 13px;
+    color: #FFFFFF;
+    margin-top: 20px;
 }
 
