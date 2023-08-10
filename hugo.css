@@ -1,0 +1,127 @@
+body {
+	font-family: 'Architects Daughter', cursive;
+}
+
+header {
+	background: linear-gradient(#111111 13%, #FEFEFE 50%, #111111);
+	padding: 50px 70px 20px 0px;
+}
+
+header h1, header p {
+	color: white;
+}
+
+.logo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner h1 {
+	position: relative;
+    left: 20px;
+    font-size: 28px;
+    margin: 30px;
+}
+
+.banner {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.banner p {
+	text-align: center;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+main h2 {
+	margin-bottom: 42px;
+	text-align: center;
+	font-size: 22px;
+}
+
+main p {
+	font-size: 16px;
+	margin: 20px;
+	text-align: center;
+}
+
+main h3{
+	text-align: center;
+	font-size: 20px;
+	margin: 20px;
+}
+
+.principal {
+	background: #111111;
+	color: #FEFEFE;
+}
+
+.eclipse {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 25%;
+}
+
+.eclipse li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 2.5%;
+	box-sizing: border-box;
+}
+
+.npcs {
+	background: linear-gradient(#111111, #B8860B, #8B0000, #191970, #111111);
+	color: #FEFEFE;
+}
+
+.portrait {
+	cursor: pointer
+}
+
+.imperiais {
+	width: 940px;
+	margin: 0 auto 50px;
+}
+
+.imperiais li {
+	display: inline-block;
+	text-align: center;
+	width: 29%;
+	vertical-align: top;
+	margin: 0 1.1em;
+	box-sizing: border-box;
+}
+
+.ancestrais {
+	width: 940px;
+	margin: 0 auto 50px;
+}
+
+.ancestrais li {
+	display: inline-block;
+    text-align: center;
+    width: 29%;
+    vertical-align: top;
+    margin: 0 1.1em;
+    box-sizing: border-box;
+}
+
+.cavaleiros {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.cavaleiros li {
+	display: inline-block;
+    text-align: center;
+    width: 29%;
+    vertical-align: top;
+    margin: 0 1.1em;
+    box-sizing: border-box;
+}
+
